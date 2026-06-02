@@ -4,8 +4,16 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <meta name="google-site-verification" content="BUFpOx4zqcKKLODyN1a5QoKeFM8r0JB-3IH8k-qXxgQ" />    
-    <title>SAANVITHA TECHNOLOGIES</title>
+    <meta name="google-site-verification" content="BUFpOx4zqcKKLODyN1a5QoKeFM8r0JB-3IH8k-qXxgQ" />  
+    <title>Saanvitha Technologies | IT Solutions & Software Services</title>
+
+    <meta name="description"
+    content="Saanvitha Technologies provides software development, web applications, IT services, and technology solutions.">
+
+    <meta name="keywords"
+    content="Saanvitha Technologies, saanvitha-technologies, software company, IT services, web development">
+
+    <!-- <title>SAANVITHA TECHNOLOGIES</title> -->
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="Consulting Website Template Free Download" name="keywords">
     <meta content="Consulting Website Template Free Download" name="description">
